@@ -44,7 +44,15 @@ switch (buttonin) {
 }
 
 });
+
 }
+document.addEventListener("keydown", function(){
+
+    alert("key is pressed");
+
+})
+
+
 
 
 
